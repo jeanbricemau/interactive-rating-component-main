@@ -1,5 +1,7 @@
 # Frontend Mentor - Interactive rating component
 
+https://jeanbricemau.github.io/interactive-rating-component-main/
+
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
